@@ -1,4 +1,3 @@
-<h3 align="center">Full Stack Web Developer</h3>
 <div align=center>
-   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=haneefSaeed&theme=dark&hide_border=false" alt="streak stats"/>
+   <img width=390 src="https://streak-stats.demolab.com?user=haneefSaeed&theme=transparent&hide_border=true&border_radius=0" alt="streak stats"/>
 </div>
