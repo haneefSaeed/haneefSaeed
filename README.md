@@ -1,3 +1,10 @@
-<div align=center>
-   <img width=390 src="https://streak-stats.demolab.com?user=haneefSaeed&theme=transparent&hide_border=true&border_radius=0" alt="streak stats"/>
-</div>
+<h3>Full Stack Developer</h3>
+
+<ul>
+   <li>Nextjs</li>
+   <li>React</li>
+   <li>NodeJS</li>
+   <li>REST API</li>
+   <li>Prisma</li>
+   <li>Typescript</li>
+</ul>
