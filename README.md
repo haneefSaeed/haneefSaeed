@@ -1,4 +1,4 @@
-### Hello!!! I'm Hanif!
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f2d6e360-126d-43ec-8864-9e95d547168d" />### Hello!!! I'm Hanif!
 
 A **Full Stack Developer** with experience building **real-world business systems** such as learning platforms, fundraising & job portals, booking systems, and secure authentication workflows.
 
@@ -47,5 +47,5 @@ I am good at turning **business requirements into scalable, maintainable solutio
 
 
 ### Links
-- 🌐 Portfolio: https://haneefsaeed.verce.app
+- 🌐 Portfolio: https://haneefsaeed.vercel.app
 - 📧 Email: hanif.sayeedi@gmail.com
