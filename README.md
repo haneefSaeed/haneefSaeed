@@ -1,51 +1,38 @@
-## Hello!!! I'm Hanif!
+# Hi, I'm Haneef Saeed
 
-A **Full Stack Developer** with experience building **real-world business systems** such as learning platforms, fundraising & job portals, booking systems, and secure authentication workflows.
+Full-Stack Developer based in Tanzania, building modern web applications with a focus on clean architecture, scalable APIs, and responsive UIs.
 
-I am good at turning **business requirements into scalable, maintainable solutions**.
+I turn real-world business requirements into production-ready systems, from hotel booking platforms and NGO fundraising portals to AI-powered learning apps and secure authentication workflows.
 
-### I am good at
-- Full-stack web applications  
-- Authentication & authorization (OAuth, 2FA, protected routes)  
-- Admin dashboards & CRUD systems  
-- Learning platforms, booking & fundraising systems  
-- Business & ERP-style applications  
+**Currently open to remote full-stack roles**
 
-### Technologies 
+---
 
-**Frontend**
-- React, Next.js  
-- TypeScript, JavaScript  
-- Tailwind CSS / SASS  
+### Tech Stack
 
-**Backend**
-- Node.js  
-- Django  
-- Laravel  
+**Frontend** — Next.js · React · TypeScript · Tailwind CSS · Shadcn UI · Framer Motion  
+**Backend** — Node.js · Express · Django · Laravel  
+**Databases** — PostgreSQL · MongoDB · MySQL · Neon · Firebase  
+**Auth & Payments** — NextAuth · JWT · OAuth 2.0 · Stripe  
+**Testing & DevOps** — Playwright · Docker · GitHub Actions · vercel
+**Tools** — Git · Figma · Postman · Zustand · Redux  
 
-**Databases**
-- PostgreSQL  
-- MySQL
-- MongoDB
-- Firebase
+---
 
-**Other**
-- REST APIs  
-- Authentication (NextAuth, JWT, OAuth)  
-- Git & GitHub
-- Pytorch & ML
+### Featured Projects
 
+| Project | Stack | Live |
+|---|---|---|
+| [RaiseBridge](https://github.com/haneefSaeed/fundraising-job-portal) | Laravel, MySQL, Admin Dashboard | [Demo](https://raisebridge.kesug.com/) |
+| [Ele Beauty Salon](https://github.com/haneefSaeed/ele) | Next.js, SQLite, Tailwind CSS | [Demo](https://ele-xi.vercel.app/) |
+| [TanziBookings](https://github.com/haneefSaeed/TanziBookings) | Next.js, MongoDB, Stripe, Playwright | [Demo](https://hotel-mgr.onrender.com/) |
+| [Lanboo](https://github.com/haneefSaeed/lanboo) | Next.js, TypeScript, Groq AI | [Demo](#) |
+| [Authenticatic](https://github.com/haneefSaeed/authenticatic-next-auth) | NextAuth, OAuth, 2FA | [Demo](#) |
 
-### My Featured proejcts:
-- **Learn English** – AI-powered English learning platform  
-- **Fundraising & Job Portal** – Admin dashboard, payments, CRUD operations, jobs and fundraisings 
-- **Authentication System** – NextAuth, OAuth, 2FA  
-- **Hotel Management App** – Booking & management system 
-- **LMS Platform** – Learning materials, exams, user management  
+---
 
-⬇️ Check my pinned repositories below.
+### Currently
 
-
-### Links
-- 🌐 Portfolio: https://haneefsaeed.vercel.app
-- 📧 Email: hanif.sayeedi@gmail.com
+- 🔨 Building client projects
+- 📍 Arusha, Tanzania — available UTC+3, flexible for US/EU hours  
+- 📬 hanif.sayeedi@gmail.com
