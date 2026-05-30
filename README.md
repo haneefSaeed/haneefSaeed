@@ -1,4 +1,4 @@
-# Hi, I'm Haneef Saeed
+# Hi, I'm Hanif Sayeed
 
 Full-Stack Developer based in Tanzania, building modern web applications with a focus on clean architecture, scalable APIs, and responsive UIs.
 
